@@ -1,4 +1,4 @@
-module main.go
+module github.com/huynim/myquote
 
 go 1.17
 
